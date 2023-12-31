@@ -1,0 +1,38 @@
+/* RealTimeStockData.css */
+
+.real-time-stock-container {
+    background-color: #f0f2f5;
+    padding: 20px;
+  }
+  
+  .real-time-stock-header {
+    background-color: #1890ff;
+    padding: 20px 0;
+  }
+  
+  .real-time-stock-title {
+    color: white;
+    text-align: center;
+  }
+  
+  .real-time-stock-content {
+    margin-top: 20px;
+  }
+  
+  .real-time-stock-search {
+    margin-bottom: 20px;
+  }
+  
+  .real-time-stock-table {
+    margin-top: 20px;
+  }
+  
+  .real-time-stock-table th,
+  .real-time-stock-table td {
+    text-align: center;
+  }
+  
+  .real-time-stock-actions button {
+    margin: 5px;
+  }
+  
